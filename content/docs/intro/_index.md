@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Chapter 1
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 1
+linktitle: Introducción
+summary: Se explican las razones para escribir esta guía, y cómo puede ayudar a los profesores a mejorar el aprendizaje de las Matemáticas de sus alumnos.
+weight: 10
 icon: book
 icon_pack: fas
 
 # Page metadata.
-title: Chapter 1
+title: Introducción 
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---

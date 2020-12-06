@@ -1,6 +1,6 @@
 ---
-title: Docs
+title: GEM
 type: book  # Do not modify.
 ---
 
-Welcome to the _book_ template!
+Guía de Escritura Matemática
