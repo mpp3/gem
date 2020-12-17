@@ -31,3 +31,27 @@ Estas reglas generales se refieren a dos aspectos:
 - modo de combinar el lenguaje natural y el lenguaje simbólico matemático.
 
 
+## F.1: Guarda los márgenes
+
+**Por qué** Los textos matemáticos siguen las reglas normales del lenguaje escrito.
+
+**Cómo** El tamaño de los márgenes recomendado depende del tipo de texto. En un trabajo, los márgenes serán mayores que en un examen. El margen mínimo debe ser de un centímetro. Para trabajos e informes, los márgenes deben ser de 2,5 cm.
+
+## F.2: Escribe de izquierda a derecha y de arriba abajo
+
+**Por qué** Los textos matemáticos siguen las reglas normales del lenguaje escrito.
+
+**Cómo** Cuando los textos mezclan lenguaje natural y lenguaje simbólico matemático, escribir de izquierda a derecha y de arriba abajo es difícil por dos razones:
+- queda mucho espacio en blanco, que parece *desperdiciado*;
+- no siempre pensamos lo que hay que escribir en el orden en el que hay que escribirlo;
+- nos obliga, a veces, a repetir cosas que ya hemos escrito.
+Hay que convencer a los alumnos de que el espacio en blanco no está *desperdiciado*, sino que facilita la comprensión del escrito. También es necesario enseñar a los alumnos a anticipar qué cálculos van a necesitar, para un cálculo posterior, y escribirlos antes. Ayudará que aprendan a utilizar un papel como borrador. Finalmente, deben entender que, en ocasiones, es necesario repetir cosas que ya hemos escrito, para que el texto sea más fácilmente comprensible.
+
+**Excepciones** Cuando incluimos ilustraciones (dibujos, gráficas, tablas), podemos distribuir el texto en torno a dichas ilustraciones.
+
+## F.3: No dibujes flechas para indicar el orden de lectura
+
+**Por qué** No son necesarias. Suelen ser una consecuencia de que no se ha escrito de izquierda a derecha y de arriba abajo (F.2).
+
+**Cómo** La *prohibición** de usar flechas para indicar el orden de lectura obliga a escribir en el orden correcto: de izquierda a derecha y de arriba abajo.
+
